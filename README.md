@@ -1,4 +1,10 @@
 # tea
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x53E430Df007dD5770ce0907586bCa979d120CA5A'
+quorum: 1
 
 [![build](https://travis-ci.org/alefnula/tea.png)](https://travis-ci.org/alefnula/tea)
 [![codecov](https://codecov.io/gh/alefnula/tea/branch/master/graph/badge.svg)](https://codecov.io/gh/alefnula/tea)
